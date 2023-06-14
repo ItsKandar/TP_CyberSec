@@ -23,6 +23,6 @@ setcookie($cookie_name, $cookie_value, time() + (90), "/");
         setcookie($cookie_name, $cookie_value, time() + (90), "/");
     }
     ?>
-    <h1>Bonjour, je suis une page web</h1>
+    <h1>Bonjour je suis une page web :)</h1>
 </body>
 </html>
