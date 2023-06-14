@@ -1,1 +1,1 @@
-# Exercices a faire pendant les cours de cybersecuritéss
+# Exercices a faire pendant les cours de cybersecurités
